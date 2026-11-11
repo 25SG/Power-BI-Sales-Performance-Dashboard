@@ -34,7 +34,7 @@ Provides an overview of key business performance indicators.
 
 Examines sales performance and trends over time.
 
-![Sales Overview](Sales_Analysis.png)
+![Sales Overview](Sales_Performance.png)
 
 ### 3. Product & Regional Analysis
 
