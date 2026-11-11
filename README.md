@@ -34,13 +34,13 @@ Provides an overview of key business performance indicators.
 
 Examines sales performance and trends over time.
 
-![Sales Overview](Sales_Overview.png)
+![Sales Overview](Sales_Analysis.png)
 
 ### 3. Product & Regional Analysis
 
 Evaluates product category, subcategory and geographical sales performance.
 
-![Product and Regional Analysis](Product_Region_Analysis.png)
+![Product and Regional Analysis](Product_Analysis.png)
 
 ### 4. Profitability Analysis
 
